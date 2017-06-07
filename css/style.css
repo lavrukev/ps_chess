@@ -1,0 +1,28 @@
+.body {
+	height: 600px;
+	width: 600px;
+	background: #850000;
+}
+.bishop, .rook  {
+	margin-left: 200px;
+	height: 200px;
+	width: 200px;
+	background: #ffffff;
+}
+.bishop-image, .knight-image, .rook-image {
+	width: 200px;
+	height: 200px;
+}
+.knight {
+	height: 200px;
+	width: 200px;
+	background: #ffffff;
+	float: left;
+}
+.block {
+	height: 200px;
+	width: 200px;
+	background: #ffffff;
+	margin-left: 400px;
+
+ }
