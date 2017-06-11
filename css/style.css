@@ -5,24 +5,17 @@
 }
 .bishop, .rook  {
 	margin-left: 200px;
-	height: 200px;
-	width: 200px;
 	background: #ffffff;
 }
-.bishop-image, .knight-image, .rook-image {
+.bishop-image, .knight-image, .rook-image, .bishop, .rook, .knight, .block {
 	width: 200px;
 	height: 200px;
 }
 .knight {
-	height: 200px;
-	width: 200px;
 	background: #ffffff;
 	float: left;
 }
 .block {
-	height: 200px;
-	width: 200px;
 	background: #ffffff;
 	margin-left: 400px;
-
  }
